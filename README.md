@@ -9,13 +9,28 @@ NPUST Student Dataset consist of around 4500 images. The primarily source of thi
 
 # Download the Trained Model
 
-To download the YOLOV8 Model trained on NPUST Student Dataset, Please follow this [Google Drive file Link](https://drive.google.com/file/d/1AUI90nwl7dkVgF5XjeT9Saxm3rO52kY9/view?usp=drive_link)
+To download the YOLOV8 Model trained on NPUST Student Dataset, Please follow this [Google Drive file Link](https://drive.google.com/file/d/1AUHRicgHVOsi-W76sxftSalmTxyWA4id/view?usp=drive_link)
 
-This folder is password protected. To get the password, please email at dunny@gmail.com.
 
 # Download the NPUST Student Dataset
 
-To download the NPUST Student Dataset, please follw this 
+To download the NPUST Student Dataset along with the trained result please follow this [Google Drive file Link](https://drive.google.com/file/d/1DsTSQx0ikJqRL45jgMyXinklh_7JE0vS/view?usp=drive_link)
+
+
+
+### Dataset Files and Directories
+
+- **config.yaml**: Configuration file for the model.
+- **data/**: Contains the training, validation, and test datasets.
+  - **train/**: Training dataset images.
+  - **val/**: Validation dataset images.
+  - **test/**: Test dataset images.
+- **results/**: Contains the results of the model evaluation.
+  - **confusion_matrix.png**: Confusion matrix of the model's performance.
+  - **precision_recall_curve.png**: Precision-recall curve of the model's performance.
+- **README.md**: This file, providing an overview of the folder contents.
+
+
 
 
 
