@@ -13,6 +13,11 @@ To download the YOLOV8 Model trained on NPUST Student Dataset, Please follow thi
 
 This folder is password protected. To get the password, please email at dunny@gmail.com.
 
+# Download the NPUST Student Dataset
+
+To download the NPUST Student Dataset, please follw this 
+
+
 
 
 
