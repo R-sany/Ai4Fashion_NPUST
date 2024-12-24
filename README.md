@@ -15,6 +15,7 @@ To download the YOLOV8 Model trained on NPUST Student Dataset, Please follow thi
 # Download the NPUST Student Dataset
 
 To download the NPUST Student Dataset along with the trained result please follow this [Google Drive file Link](https://drive.google.com/file/d/1DsTSQx0ikJqRL45jgMyXinklh_7JE0vS/view?usp=drive_link)
+This is a password protected folder. To get the password please email us at weiher{at}mail.npust.edu.tw
 
 
 
