@@ -11,6 +11,10 @@ NPUST Student Dataset consist of around 4500 images. The primarily source of thi
 
 To download the YOLOV8 Model trained on NPUST Student Dataset, Please follow this [Google Drive file Link](https://drive.google.com/file/d/1AUI90nwl7dkVgF5XjeT9Saxm3rO52kY9/view?usp=drive_link)
 
+This folder is password protected. To get the password, please email at dunny@gmail.com.
+
+
+
 
 
 
