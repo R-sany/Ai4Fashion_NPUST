@@ -75,7 +75,7 @@ def process_all_videos_in_folder(folder_path, model_path):
 # Example usage
 
 process_all_videos_in_folder(
-    r"D:\Outputs_Cafeteria\CCTV_output rest of the videos",
-    r"C:\Users\admin\PycharmProjects\yolov8\deepfashion2_yolov8s-seg.pt"
+    r"Path to the video folder",
+    r"model path"
 )
-os.system('shutdown /s /t 1')
+os.system('shutdown /s /t 1') # shut down the pc after execution
