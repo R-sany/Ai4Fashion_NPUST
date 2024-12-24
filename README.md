@@ -1,5 +1,5 @@
 # NPUST Student Dataset
+![20240904_133056](https://github.com/user-attachments/assets/e919657b-24c8-465e-baf6-f89e07b262f7)
 
-![20240904_133056](https://github.com/user-attachments/assets/d0f62958-47d0-42ec-a5db-18ccfe958082)
 
 
