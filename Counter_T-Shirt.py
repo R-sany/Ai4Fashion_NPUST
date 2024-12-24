@@ -75,7 +75,7 @@ def process_all_videos_in_folder(folder_path, model_path):
 # Example usage
 
 process_all_videos_in_folder(
-    r"Path to the video folder",
-    r"model path"
+    "Path to the video folder",
+    "model path"
 )
 os.system('shutdown /s /t 1') # shut down the pc after execution
