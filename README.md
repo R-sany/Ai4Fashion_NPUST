@@ -30,15 +30,24 @@ This is a password protected folder. To get the password please email us at weih
   - **confusion_matrix.png**: Confusion matrix of the model's performance.
   - **precision_recall_curve.png**: Precision-recall curve of the model's performance.
 - **README.md**: This file, providing an overview of the folder contents.
+## 📖 Citation
 
+If you use this project in your research, please cite:
 
+**Wei-Her Hsieh, Md Rabius Sany Apu, Jatin Thapa, and Owen Kumala (2025).**  
+*Using Object Detection Methods to Detect Fashion Trends in University Students’ Attire.*  
+In: Matthias Rauterberg (ed.) Culture and Computing (HCII 2025). Lecture Notes in Computer Science, vol 15800. Springer, Cham.  
+DOI: [10.1007/978-3-031-93160-4_1](https://doi.org/10.1007/978-3-031-93160-4_1)
 
-
-
-
-
-
-
-
-
-
+```bibtex
+@incollection{hsieh2025ai4fashion,
+  author    = {Wei-Her Hsieh and Md Rabius Sany Apu and Jatin Thapa and Owen Kumala},
+  title     = {Using Object Detection Methods to Detect Fashion Trends in University Students’ Attire},
+  booktitle = {Culture and Computing (HCII 2025)},
+  editor    = {Matthias Rauterberg},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {15800},
+  publisher = {Springer, Cham},
+  year      = {2025},
+  doi       = {10.1007/978-3-031-93160-4_1}
+}
